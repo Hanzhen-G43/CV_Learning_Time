@@ -1,2 +1,1 @@
-# CV_Learning_Time
-Keep track of my learning journey
+#我将用这个来记录我的学习计算机视觉的学习过程
